@@ -1,5 +1,10 @@
-## Hi there 👋
+## 🌍·🤔·☘️
 
+* PhD in Atmospheric Science from University of California, Davis, with a focus on deep learning models for hydroclimate prediction and projection❄️💦⛈️
+* Currently working on climate detection and impacts🌍
+* Python, PyTorch💻
+* 🎹🎮🐶😈👩‍❤️‍👨
+* Bachelor in Environmental Engineering from Beijing Normal University🇨🇳
 <!--
 **ShihengDuan/shihengduan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
