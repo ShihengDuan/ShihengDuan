@@ -6,6 +6,9 @@
 * 🎹🎮🐶😈👩‍❤️‍👨
 * Bachelor in Environmental Engineering from Beijing Normal University🇨🇳
 
+<p align="left">
+<image width=512 src="https://github.com/ShihengDuan/shihengduan/blob/main/DSC_2664.JPG" />
+</p>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shihengduan&count_private=true&show_icons=true)
